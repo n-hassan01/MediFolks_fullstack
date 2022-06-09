@@ -1,0 +1,20 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+table {
+    width: 100%;
+}
+  
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+mat-label{
+    color: rgb(66, 66, 66);
+}
+
+#create{
+    margin-right: 15px;
+}
